@@ -1,0 +1,118 @@
+Mantık her şeyin merkezinde ise insana verilen en büyük ve en önemli hediye doğru düşünebilen bir akıldır.
+
+Gazali, Mustasfa adlı kitabında, mantık bilmeyenin ilmine güven olunmayacağını söyler.
+
+Bir kişi doğru düşünüp düşünmediğini bilebilmek için mantık kurallarına ihtiyaç duyar ki Gazali'nin mantık bilmeyenin ilmine güven olmaz demesi bu yüzdendir.
+
+Mantık bilmeyen bir kişi doğru söz konuşabilir ama konuşmaya devam ettikçe hata yapması kaçınılmaz olur. Bunun nedeni doğru ile yanlış akıl yürütmeyi ayırt edecek bilgiye sahip olmamasıdır.
+
+Bütün ilimlerden önce mantık ilmi öğrenilmelidir. Mantık ilmi tüm ilimlere eşlik eder.
+İnsanın bilgi edinmeye olan hırsı doğuştan gelen bir eğilimidir.
+
+İnsanın bilgiye her daim muhtaç olması, mantığa da her daim muhtaç olması anlamına gelir ki mantık olmaksızın bu bilgilerin doğruluğu denetlenemez.
+
+Doğru düşünme için neyin ne olduğu belli olmalı; düşünceler dağınık değil, düzenli ve sıralı olmalıdır ki bunun sağlayıcısı mantıktır.
+
+Aristoteles (MÖ 384-322) klasik mantığı devasa bir sistem halinde bir araya getiren isimdir.
+
+Mantık, konunun ne olduğuyla değil, kalıbıyla ilgilendiği için formel mantık olarak anılır. Onun ilgi alanına form girer ve içeriği dışlar.
+
+Mantık bir alettir, bir araçtır. Marangozun testeresi ne ise filozofun mantığı odur. Mantıkçının amacı sadece mantık yapmak değildir, hatasız felsefe üretmektir.
+
+Bilginin kendisinin de biçimin kendisinin de doğru olmadığı yerde doğru sonuç çıkmaz. Birinden biri eksikse sonuç hatalı olur. Doğru sonuç için doğru bilgi gerektiği gibi doğru akıl yürütme gerekir.
+
+Bir akıl yürütmenin içeriğindeki bilgiler yanlış, akıl yürütme doğru; içeriğindeki bilgiler doğru, akıl yürütme yanlış olabilir.
+
+Aristo, mantığa Analitik adını vermişti. Biz mantık diyoruz. Onun amacı akıl yürütmenin kesin yollarını göstermekti ki formel mantığın amacı bu olarak kabul edilir.
+
+İnsanlık klasik mantığı Aristo'nun Organon adını verdiğimiz külliyatından öğrendi. Organon adı Aristo'dan sonra verildi.
+
+Mantık bilimi Aristoteles'ten sonra hem yeni konular eklenerek genişletilmiş hem de var olan konular derinlikli bir şekilde açıklanmıştır ama unutulmamalıdır ki Aristo mantığı yıkılarak değil, temel alınarak ve genişletilerek ilerletilmiştir.
+
+Modern mantık Aristo mantığına (geleneksel mantığa) alternatif olarak geliştirilmiş ve hızla popülerlik kazanıp geleneksel mantığı ikinci plana atmıştır.
+
+Yaşamak için suya, sürdürülebilir, tutarlı düşünceler kurabilmek için mantığa duyulan ihtiyaç zorunluluk yönünden farksızdır.
+
+Ebheri, İsagoci metnini kavram ve önerme üzerine kurmuştur.
+
+Mantığın ilgilendiği en temel şey akıl yürütmelerdir.
+
+Mantıkçılar "o halde"den önceki savlara öncül, sonraki savlara sonuç derler.
+
+İsagoci bir giriş, başlangıç metnidir. Felsefe, matematik, astronomi ilimlerinde de hadis, tefsir, fıkıh gibi ilimlerde de gereklidir.
+
+Mantık, temelde, bir bilginin nasıl yapılandığıyla, geçerli mi geçersiz mi olduğuyla ilgilenir.
+
+Tartışma ortamı bir er meydanına benzetilirse mantık kalkan görevi görür. Kişinin kendisini safsatalara düşmekten koruduğu gibi karşıdan gelen safsataları da çözümleyip bertaraf etmesine yardımcı olur.
+
+Bir kelimenin sözlükteki anlamı zihinde üç farklı şekilde karşılık bulabilir: Kelime, anlamın tümünü kapsayabilir (bütün olarak evi kastetmek); kelime, bütünün içindeki bir parçaya işaret edebilir (evin duvarlarını kastetmek); kelime, kendisinin dışındaki ama kendisiyle doğrudan bağlantılı bir vasfı (ev denince akla sıcak bir yuva gelmesi) çağrıştırabilir.
+
+Kelimenin sözlükteki anlamı, zihinde tamamını kapsarsa mutabakat yoluyla; bir parçaya işaret ederse tazammun yoluyla; kendisinin dışındaki ama kendisiyle doğrudan bağlantılı bir vasfı çağrıştırırsa iltizam yoluyla karşılık bulabilir.
+
+Bir kelimenin sözlükteki anlamı ya zihinde kelimenin tamamını kapsayarak karşılık bulur ki buna mutabakat deriz ya bir parçaya işaret eder de buna tazammun deriz ya da kendisinin dışındaki ama kendisiyle doğrudan bağlantılı bir vasfı çağrıştırır da buna iltizam deriz. Birinde mutabık kalır, birinde parçayı kasteder, birinde bir özelliği çağrıştırır.
+
+Bir kelimenin sözlük anlamı zihinde kelimenin tamamını kapsayacak şekilde karşılık bulursa bu kelimenin mutabakat yoluyla zihinde karşılık bulduğunu söyleriz.
+
+Bir kelimenin sözlük anlamı zihinde kelimenin bir parçasına işaret ederek karşılık bulursa bu kelimenin tazammun yoluyla zihinde karşılık bulduğunu söyleriz.
+
+Bir kelimenin sözlük anlamı zihinde kelimenin kendisi dışındaki ama kendisiyle doğrudan bağlantılı bir özelliğini çağrıştırırsa bu kelimenin iltizam yoluyla zihinde karşılık bulduğunu söyleriz.
+
+Mutabakat, tazammun ve iltizam: Bunlar, bir kelimenin sözlük anlamının zihinde karşılık bulduğu üç farklı yoldur.
+
+Mantık ne doğruyla ne de yanlışla ilgilenir. Mantık, doğru akıl yürütmeleri yanlış akıl yürütmelerden ayırmakla ilgilenir.
+
+Sonuç öncüllerden çıkıyorsa mantık doğru işlemiştir. Sonuç öncüllerden çıkıyorsa ama varılan sonuç gerçekle uyuşmuyorsa orada mantığın işi yoktur. Mantık borudan akan ne olursa olsun akmasını ister. Pis su da borudan akar, temiz su da borudan akar.
+
+Mantıkçılar sonucun öncüllerden çıkması durumuna geçerlilik adını verirler.
+
+Mantık, karmaşıklaştırmak için değil, keskinleştirmek için vardır.
+
+Tüm öncüller doğru ama sonuç yanlışsa karşımızdaki çıkarım tümdengelimsel olamaz.
+
+Öncüllerin doğru kabul edildiği her tümdengelimsel akıl yürütmede sonuç da zorunlu olarak doğru kabul edilmelidir.
+
+Bir önermenin kendisi doğruysa değili yanlış olur ama değili doğruysa kendisi yanlıştır. Bir önermenin değili otomatik olarak yanlış olmak zorunda değildir.
+
+Bir insanın mantık bilgisini sınamak için ona şu hileli soruyu sorun: "Bir önermenin değili doğru mudur, yanlış mıdır?" Önermenin doğruluk değerini sormadan cevap verecek olursa yanılacak ve bilgisizliğini ifşa edecektir.
+
+Doğru bir önermenin değili mutlaka yanlış, yanlış bir önermenin değili mutlaka doğrudur.
+
+Bir önerme doğru ise yanlış bir önermeye "ve" bağlacı ile bağlandığı anda yanlış olur. Eğer "veya" bağlacı ile bağlanırsa sonuç doğru olur. Önce "ve" bağlacı ile yanlış bir önermeye bağlanıp "veya" bağlacıyla doğru bir önermeye bağlanırsa sonuç doğru olur.
+
+Eğik çizgi işareti yan yana çıkarımlarda "o halde" anlamına gelir. Örneğin, "Eğer p ise q'dur. p doğrudur. O halde q'dur." demek istersem "p→q, p/q" şeklinde ifade edebilirim.
+
+Bir önermenin doğru olduğunu belirtmek için olduğu gibi yazarız (p), yanlış olduğunu belirtmek için başına değilleme koyarız (¬p).
+
+Önerme q ve p'nin "veya" mantıksal bağlacıyla bağlandığı bir akıl yürütmenin sonucu yanlış ise q'nun ve p'nin değili kaçınılmaz olarak doğru olur. O halde hem q'nun hem de p'nin değilini doğru olarak kabul edebiliriz.
+
+Bir önermenin değilinin doğruluk değerini bilmekle o önermenin kendisinin doğruluk değerini bilmek arasında hiçbir fark yoktur.
+
+Mantıkta "&" sembolü "ve" bağlacını işaret eder. Her iki önermenin de doğru olmadığı diğer üç kullanımda da sonuç yanlış olur.
+
+Her önermenin aynı anda tek bir doğruluk değeri olabilir. Doğruluk değeri "D" olan bir önermenin aynı anda "Y" olduğu (klasik mantıkta) söylenemez. Bir önerme ya doğru yani "D" ya da yanlış yani "Y" durumunda bulunmak zorundadır.
+
+Örneğin, a önermesi doğru ise ¬a önermesi kaçınılmaz olarak yanlış olmak zorundadır. Aksi de mümkündür. Örneğin, a önermesi yanlış ise ¬a önermesi kaçınılmaz olarak doğrudur. Bu iki önerme, ¬a önermesi ve a önermesi, bir arada mantıksal olarak bulunamaz. Aksi takdirde çelişmezlik ilkesi ihlal edilmiş olur.
+
+Bağlaç olan "veya"nın kullanıldığı bileşik önermelerde, basit önermelerden en az biri bile doğruysa sonucun kaçınılmaz olarak doğru olacağını söyleriz.
+
+Bağlaç olan "ve"nin kullanıldığı bileşik önermelerde, basit önermelerden her ikisi de doğruysa sonucun kaçınılmaz olarak doğru olacağını söyleriz.
+
+Mantıkta "bir kedinin bile uçan olmadığını" söylemek, "hiçbir kedinin uçamayacağını" söylemekle eş değerdir.
+
+İlk neden dışındaki tüm nedenlerin bir nedeni olmak zorundadır. Eğer her şeyin bir nedeni olduğunu söylersem pekala ilk nedenin de bir nedeni olması gerekir ki bir şeyin nedeni olabileceğini söylemiş olduğum halde ilk şeyin nedensiz olduğunu söyleyerek kendimle çelişmiş olurum. Örneğin, ilk neden Allah ise Allah dışındaki her şeyin bir nedeni vardır ve bu neden(lerin yaratanı) Allah'tır diye düşünürsem yalnızca yaratılanları kapsadığım için çelişkiye düşmekten kurtulmuş olurum.
+
+Bir nesneyi "n" ile, o nesneye ait bir özelliği "P" ile temsil edersek n = "Ali", P = "Öğrencidir" ise nP ifadesi "Ali öğrencidir" anlamına gelir ve Ali gerçekten öğrenciyse bu önermenin doğru olduğunu söyleriz. Genellikle Pn şeklinde (öğrencidir Ali) yazılır.
+
+Mantıkta bakılan şey tümcenin ne ifade ettiğidir ki "Habil bir insandır." tümcesi de "Abel is a human being." tümcesi de aynı şeyi ifade eder. Bizim için önemli olan dili değil, anlamıdır.
+
+Mantıkta ∃ sembolü "bazı" veya "en az bir" anlamına gelir ki P = kitap okuyan biri ise ∃x Px ifadesi "En az bir x vardır ki o x kitap okuyordur." yani "Bazı insanlar kitap okur." (veya "En az bir kişi kitap okuyor.") anlamına gelir. Doğru sayılması için en az bir örnek (en az bir kişinin kitap okuması) gerekir.
+
+Mantıkta "Bazı insanlar kitap okuyor." demek için en az bir kişinin kitap okuması yeterlidir. Günlük dilde çoğul kullandığımız ("insanlar" örneğindeki gibi) için en az iki kişinin olması gerektiği yanılgısına düşebilirsiniz. Bizim için önemli olan kümenin en az bir elemanı olmasıdır ki kitap okuyan insan kümesi boş olmasın. Biz "bazı" derken kümenin boş olmadığını kastediyoruz, günlük dilde de bu kastedilebilir.
+
+Mantıkta ∀ sembolü "bütün" veya "her" anlamına gelir ki P = ölümlü olma özelliği ise ∀x Px ifadesi "Her x nesnesi için o x ölümlüdür." yani "Her şey ölümlüdür." anlamına gelir. Her şey (örneğin taşlar) ölümlü olmadığı için şu şekilde düzeltelim: ∀x(İx ⟹ Öx) yani herhangi bir x nesnesi insan ise o x nesnesi ölümlüdür.
+
+Mantık herhangi bir dini inanca bağlı değildir. Dünyanın en önemli mantıkçıları Müslüman olsa İslam'ın, ateist olsa ateizmin mantığı olmaz. Ama inançları temellendirmek için kullanılır ki örneğin, İslam dininin kelamcıları (Gazali, Razi vb.) vardır.
+
+Mantık insanlık tarihi açısından büyük bir öneme sahiptir ama ilkeleri ve kendisi dahi sorgulanamaz değildir. Burada dikkat edilmesi gereken şey, mantığı sorgulamanın dahi mantık çerçevesinde gerçekleşmek zorunda olmasıdır.
+
+Mantık öğrenmek sizi safsata geçirmez yapmaz ama özellikle de bu eğitimi günlük hayatta örneklerle sürdürmek doğru düşünme yönünde pratiklik kazanmanızı sağlayabilir. İnsanın her zaman doğru düşünmesi, safsataya düşmemesi mümkün değildir ama mantık eğitimi koruyucu görev görür.
