@@ -128,3 +128,5 @@ Mantıkta sözlerin, kelimelerin yapısal olarak sınıflandırılması konusu l
 Mantıkta tanım yapmak için beş adet temel kategori kullanılır: cins, tür, ayrım, hassa ve genel ilinti. Bir şeyin ne olduğunu ortaya koyarken bunlardan yararlanırız (beş tümel konusu, Porphyrios ağacından gelir).
 
 Beş tümel konusunu anlayabilmek için tümel kavramının ne olduğunu, tümel terimler genellikle yalın olduğu için onlardan da önce basit lafızların ne olduğunu bilmek gerekir ki tanım yapmaya hazır hale gelebilelim.
+
+Lafızların ilk temel ayrımı basit ve bileşik lafızlardır. Bunlara müfret ve müellef (mürekkep de denir) diyoruz. Örneğin "bal", lafzın parçası anlamın parçasına delalet etmez, basit lafızdır, müfrettir. Ama evin kapısı dediğimde, "evin" kelimesinin tek başına bir anlamı vardır ve bütünün (evin kapısı) kastettiği nihai anlamın bir parçasıdır; "kapısı"  kelimesinin de tek başına bir anlamı vardır ve bütünün kastettiği nihai anlamın bir parçasıdır. O halde mürekkep olduğunu söyleyebiliriz.
