@@ -120,3 +120,5 @@ Mantık öğrenmek sizi safsata geçirmez yapmaz ama özellikle de bu eğitimi g
 Klasik mantıkta, kavramlar başlığı altında; terimler, anlamlandırma, beş tümel ve tanım yapma ile önermeler başlığı altında; önermelerin yapısı, niceliği, niteliği ve önermeler arası ilişkilerle şekillenerek üçüncü adıma (çıkarım) geçilmiştir.
 
 Mantığın kavramlardaki ana hedefi doğru bir tanım yapmaktır. Bunun için sırasıyla delalet, lafızlar ve Porphyrios ağacı öğretilir.
+
+Mantıkta terimlerin dış dünyadaki anlamlara ya da zihindeki karşılıklarına işaret etmesi durumuna delalet diyoruz.
