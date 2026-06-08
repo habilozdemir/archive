@@ -116,3 +116,5 @@ Mantık herhangi bir dini inanca bağlı değildir. Dünyanın en önemli mantı
 Mantık insanlık tarihi açısından büyük bir öneme sahiptir ama ilkeleri ve kendisi dahi sorgulanamaz değildir. Burada dikkat edilmesi gereken şey, mantığı sorgulamanın dahi mantık çerçevesinde gerçekleşmek zorunda olmasıdır.
 
 Mantık öğrenmek sizi safsata geçirmez yapmaz ama özellikle de bu eğitimi günlük hayatta örneklerle sürdürmek doğru düşünme yönünde pratiklik kazanmanızı sağlayabilir. İnsanın her zaman doğru düşünmesi, safsataya düşmemesi mümkün değildir ama mantık eğitimi koruyucu görev görür.
+
+Klasik mantıkta, kavramlar başlığı altında; terimler, anlamlandırma, beş tümel ve tanım yapma ile önermeler başlığı altında; önermelerin yapısı, niceliği, niteliği ve önermeler arası ilişkilerle şekillenerek üçüncü adıma (çıkarım) geçilmiştir.
