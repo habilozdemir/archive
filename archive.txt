@@ -124,3 +124,5 @@ Mantığın kavramlardaki ana hedefi doğru bir tanım yapmaktır. Bunun için s
 Mantıkta terimlerin dış dünyadaki anlamlara ya da zihindeki karşılıklarına işaret etmesi durumuna delalet diyoruz.
 
 Mantıkta sözlerin, kelimelerin yapısal olarak sınıflandırılması konusu lafızlar başlığı altında ele alınır.
+
+Mantıkta tanım yapmak için beş adet temel kategori kullanılır: cins, tür, ayrım, hassa ve genel ilinti. Bir şeyin ne olduğunu ortaya koyarken bunlardan yararlanırız (beş tümel konusu, Porphyrios ağacından gelir).
