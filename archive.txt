@@ -122,3 +122,5 @@ Klasik mantıkta, kavramlar başlığı altında; terimler, anlamlandırma, beş
 Mantığın kavramlardaki ana hedefi doğru bir tanım yapmaktır. Bunun için sırasıyla delalet, lafızlar ve Porphyrios ağacı öğretilir.
 
 Mantıkta terimlerin dış dünyadaki anlamlara ya da zihindeki karşılıklarına işaret etmesi durumuna delalet diyoruz.
+
+Mantıkta sözlerin, kelimelerin yapısal olarak sınıflandırılması konusu lafızlar başlığı altında ele alınır.
