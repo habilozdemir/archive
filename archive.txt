@@ -118,3 +118,5 @@ Mantık insanlık tarihi açısından büyük bir öneme sahiptir ama ilkeleri v
 Mantık öğrenmek sizi safsata geçirmez yapmaz ama özellikle de bu eğitimi günlük hayatta örneklerle sürdürmek doğru düşünme yönünde pratiklik kazanmanızı sağlayabilir. İnsanın her zaman doğru düşünmesi, safsataya düşmemesi mümkün değildir ama mantık eğitimi koruyucu görev görür.
 
 Klasik mantıkta, kavramlar başlığı altında; terimler, anlamlandırma, beş tümel ve tanım yapma ile önermeler başlığı altında; önermelerin yapısı, niceliği, niteliği ve önermeler arası ilişkilerle şekillenerek üçüncü adıma (çıkarım) geçilmiştir.
+
+Mantığın kavramlardaki ana hedefi doğru bir tanım yapmaktır. Bunun için sırasıyla delalet, lafızlar ve Porphyrios ağacı öğretilir.
