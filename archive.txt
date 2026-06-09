@@ -133,3 +133,5 @@ Beş tümel konusunu anlayabilmek için tümel kavramının ne olduğunu, tümel
 Lafızların ilk temel ayrımı basit ve bileşik lafızlardır. Bunlara müfret ve müellef (mürekkep de denir) diyoruz. Örneğin "bal", lafzın parçası anlamın parçasına delalet etmez, basit lafızdır, müfrettir. Ama evin kapısı dediğimde, "evin" kelimesinin tek başına bir anlamı vardır ve bütünün (evin kapısı) kastettiği nihai anlamın bir parçasıdır; "kapısı"  kelimesinin de tek başına bir anlamı vardır ve bütünün kastettiği nihai anlamın bir parçasıdır. O halde mürekkep olduğunu söyleyebiliriz.
 
 Bazen birden fazla kelime bir araya gelse bile lafzın bileşik olmadığını söyleriz. Mesela Gaziantep derken "Gazi" kelimesiyle şehrin bir yarısına, "Antep" kelimesiyle diğer yarısına işaret etmiyoruz. Şehrin adı olan basit lafza "Gaziantep" diyerek işaret ediyoruz.
+
+Hayat tek bir şeye indirgenemeyecek kadar karmaşık, benzer şekilde insan da öyle. Sadece genetiğe, ekonomiye, psikolojiye indirgenemez.
