@@ -143,3 +143,5 @@ Mantıkta her özel isim lafzı basit kabul edilmez. Örneğin, Amerika Birleşi
 Basit lafızları zihindeki anlamına ve bu anlamın dış dünyada kaç varlığı kapsadığına göre ikiye ayırıyoruz: külli yani tümel kavram, cüzi yani tekil kavram.
 
 Mantıkta anlamın birden fazla varlık arasında paylaşılmasına engel olmayan kavramlara külli (tümel) kavramlar diyoruz; örneğin kitap kavramı İsagoci'yi de kapsar, Babil’in En Zengin Adamı'nı da kapsar. Kitap dediğimizde zihnimizde genel bir kalıp oluşuyor ve bu kalıp sayesinde anlam birden fazla varlık arasında paylaşılıyor.
+
+İslam inancında insanın kökeni Hz. Adem dışında bir canlıya dayanmaz ve genetik benzerliklerin ortak ataya değil, ortak yaratıcıya delalet ettiği düşünülür.
