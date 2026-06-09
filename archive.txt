@@ -137,3 +137,5 @@ Bazen birden fazla kelime bir araya gelse bile lafzın bileşik olmadığını s
 Hayat tek bir şeye indirgenemeyecek kadar karmaşık, benzer şekilde insan da öyle. Sadece genetiğe, ekonomiye, psikolojiye indirgenemez.
 
 Ben popülerliğe karşı mesafeliyim çünkü popülerliğin ilme zarar verme potansiyeli olduğunu düşünüyorum. Bu herkes için geçerli değil ama bu potansiyelin farkında olup temkinli olmakta fayda var.
+
+Mantıkta her özel isim lafzı basit kabul edilmez. Örneğin, Amerika Birleşik Devletleri.
