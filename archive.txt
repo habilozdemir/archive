@@ -153,3 +153,5 @@ Anlamı gereği ortaklığa izin vermeyen, yani sadece ve sadece tek bir varlı�
 Duyduğunuz kavram cüzi (tekil) ise tek bir nesne (kişi, mekan) aklınıza gelir. Cüzi kavramlar tek bir varlığa işaret ederken külli (tümel) kavramlar birden fazla varlığa işaret edebilecek potansiyeldedir.
 
 Roman kavramı küllidir, dünyadaki tüm romanları kapsar. Çalıkuşu romanı cüzidir, Reşat Nuri Güntekin'in yazdığı tek bir romandır. Gezegen kavramı küllidir, tüm gezegenleri kapsar. Mars kavramı cüzidir, Güneş Sistemi'ndeki bir gezegeni kapsar. Arama motoru tümeldir: Google, Bing, Yandex gibi arama motorlarını kapsar. Google tekildir, tek bir arama motorunu kapsar. Kedi tümeldir: Sokaktaki, evdeki ve dünyadaki tüm kedileri kapsar. Benim kedim Benekli tekildir, belirli bir kediyi kapsar.
+
+Habil tekildir. Bir sürü kişinin Habil isminde olması tekilliği değiştirmez, biz bu isimle farklı bireyleri gösteriyoruz. Ama "Habil ismi" dersem bir sürü kişinin Habil isminde olmasından dolayı tümel bir kavram halini alır. Bana seslenmek için Habil derseniz tekildir, isim olarak Habil isminden bahsederseniz tümeldir.
