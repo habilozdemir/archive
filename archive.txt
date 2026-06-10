@@ -149,3 +149,5 @@ Mantıkta anlamın birden fazla varlık arasında paylaşılmasına engel olmaya
 Tümel kavram örnekleri hazırladım. Önce örnekleri, sonra açıklamaları sıralayacağım: ağaç, şehir, üçgen, telefon, nehir. Hem kapının önündeki ağacı hem de yeryüzündeki milyarlarca ağacı kapsar; İstanbul'u kapsadığı gibi Tokyo'yu ve tüm şehirleri kapsar; örneğin eşkenar üçgen ya da dik üçgen gibi tüm üçgenleri kapsar; cebimizdekilerden ankesörlü telefonlara kadar tüm telefonları kapsar; Kızılırmak Nehri'ni kapsadığı gibi Nil Nehri'ni ve dünyadaki tüm nehirleri kapsar.
 
 Anlamı gereği ortaklığa izin vermeyen, yani sadece ve sadece tek bir varlığa işaret eden kavramlara cüzi (tekil de denir) kavramlar diyoruz.
+
+Duyduğunuz kavram cüzi (tekil) ise tek bir nesne (kişi, mekan) aklınıza gelir. Cüzi kavramlar tek bir varlığa işaret ederken külli (tümel) kavramlar birden fazla varlığa işaret edebilecek potansiyeldedir.
