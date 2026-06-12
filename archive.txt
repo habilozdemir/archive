@@ -1,3 +1,5 @@
+İki ihtimal varsa ve ilk ihtimal (örneğin üst üste 5 defa) defalarca gerçekleşti diye bir sonraki tur diğer ihtimalin gerçekleşecek olduğunu düşünmek mantık hatasıdır.
+
 Manevi huzursuzluklara en büyük ilaç inançtır.
 
 Bir olayın başka bir olaydan sonra gerçekleşmiş olması ilk olayın ikinci olayın nedeni olduğu anlamına gelmez.
