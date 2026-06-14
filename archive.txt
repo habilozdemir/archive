@@ -1,3 +1,5 @@
+En katı yargıç tutarlılıktır. Tek bir çelişkiyle tüm mantık sistemini çökertebilirsiniz. Öyle ki, böyle bir sistemde her şeyin mantıksal olarak kanıtlanması mümkündür ama çelişki yüzünden geçersizdir.
+
 Güneşin yeryüzünü aydınlatması gibi mantık öğrenmek de doğru düşünmenin yollarını aydınlatır, insanı safsataya düşmekten korur, karanlığı aydınlatıp doğru yolu gösterir.
 
 Bir örnek yazmıştım, "hisse senedi" kavramının külli olduğundan ama "Habil Özdemir şirketinin 1 numaralı hisse senedi" örneğinde cüzilikten söz etmiştim. Bunun nedeni "Habil Özdemir şirketinin hisse senedi" örneğinin de külli oluşudur. Öyle ki bu şirketin binlerce hisse senedi vardır ve burada kullilik söz konusu olur. 1 numaralı hisse senedi ile sınırlandırılırsa cüzilik söz konusu olur.
