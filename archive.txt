@@ -1,3 +1,5 @@
+Örneğin, "hisse senedi" külli bir kavramdır. Habil Özdemir şirketinin hisse senedini de Mantık şirketinin hisse senedini de kapsar. Ama "Habil Özdemir şirketinin 1 numaralı hisse senedi" de "Mantık şirketinin 1 numaralı hisse senedi" de cüzidir.
+
 Külli ve cüzi ayrımı kavramın kapsamının çokluğu veya tekliği ile ilgilidir. Tümel (külli) kavramlar sınıfa, tekil (cüzi) kavramlar sınıfın tekil üyesine işaret eder. Kastettiğimiz şey grubun üyelerinin sayısı değil, zihindeki anlamın vuku bulmasıyla ilgili. Mesela "vazo" dediğimde zihinde bir sürü vazo (yani vazoluk vasfı) canlanırken "şu vazo" dediğimde karşımdaki vazoyu işaret etmiş olurum.
 
 Mantığı Grekçe kaynaklardan alıp İslam düşüncesine uygun bir hale getiren Farabi, İslam'da felsefenin temeli haline getiren Sina'dır.
