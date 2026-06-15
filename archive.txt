@@ -1,3 +1,5 @@
+Mantığın değişmez ve sarsılmaz ilkesi özdeşlik yasası, en temel ve reddedilmesi olanaksız olan üç temel yasadan biridir ki aksi durumda geleneksel anlamda mantık yapmak imkansız hale gelir.
+
 "Mantık, akıl yürütme formlarıyla ilgilenir." demek içeriğin tamamen önemsiz olduğu anlamına gelmez ki bir akıl yürütmenin valid olduğu kadar sound olduğuna bakmamız da bu yüzdendir.
 
 Mantığın formel bir disiplin olduğunu söylüyoruz. Bunun nedenini düşündünüz mü? Mantık, akıl yürütme formlarıyla ilgilenir. Form yerine biçim de diyebiliriz. Onun ilgilendiği şey suyun akacağı yolu denetlemek. Yol düzgünse, akış varsa ne aktığıyla ilgilenmez. Aynı yoldan su da akar, kan da akar.
