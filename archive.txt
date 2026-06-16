@@ -1,3 +1,5 @@
+Bir bileşik önermede, bileşenler hangi doğruluk değerini alırsa alsın sonuç daima 1 çıkıyorsa totoloji söz konusu olur. Mesela "Seni seviyorum ya da sevmiyorum." Seni seviyorsam cümle doğru, seni sevmiyorsam cümle gene doğru olur.
+
 Mantıksal kesinlik aranıyorsa endüksiyon yerine dedüksiyon tercih edilir. Tümdengelim unsound olduğu halde geçerli kabul edilebilir. Tümevarım, yapısı gereği valid ya da invalid, sound ya da unsound olarak değerlendirilmez.
 
 Mantık doğruyu yanlıştan ayırmak için yol göstericidir. Her valid akıl yürütme sound değildir ama her sound akıl yürütme mantıkçının yoluna ışık tutar.
