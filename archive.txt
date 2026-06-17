@@ -1,3 +1,5 @@
+Retorik prolepsis bir mantık hatası değil. Doğru kullanıldığında çok güçlü bir hamle. Rakibiniz henüz konuşmaya başlamadan kafasındaki itirazları çürütüp elini kolunu bağlayabilirsiniz.
+
 Karşınızdaki kişi henüz itirazda bulunmadan olası itirazları çürütücü bir dil kullanırsanız retorik prolepsis yapmış olursunuz.
 
 Bir bileşik önermede, bileşenler hangi doğruluk değerini alırsa alsın sonuç daima 1 çıkıyorsa totoloji söz konusu olur. Mesela "Seni seviyorum ya da sevmiyorum." Seni seviyorsam cümle doğru, seni sevmiyorsam cümle gene doğru olur.
